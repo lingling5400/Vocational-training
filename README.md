@@ -15,7 +15,7 @@ Technologies Used:
 
 Languages: Python
 Libraries: TensorFlow, PyTorch, OpenCV
-Other Tools: Git, VSCode
+Other Tools: Git, VSCode, colab
 Projects & Key Outcomes:
 Image Classification: Built a simple image classification model using TensorFlow.
 YOLO Object Detection: Implemented an object detection model using YOLO and PyTorch, focusing on real-time object detection.
